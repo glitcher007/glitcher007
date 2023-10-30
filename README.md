@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kundan Tiwari</h1>
-<h3 align="center">A passionate Machine learning developer from India</h3>
+<h3 align="center">A passionate Machine learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitcher007&label=Profile%20views&color=0e75b6&style=flat" alt="glitcher007" /> </p>
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Machine learning ,Python ,C++,DSA**
 
 - 📫 How to reach me **tiwarikundan0007@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LrK_dZMyBzCZl5M1dC2Py3ONShJlet5X/view?usp=sharing](https://drive.google.com/file/d/1LrK_dZMyBzCZl5M1dC2Py3ONShJlet5X/view?usp=sharing)
 
 - ⚡ Fun fact **Life is easy isn't haha**
 
