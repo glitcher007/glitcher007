@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kundan-tiwari-bb6b7822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kundan-tiwari-bb6b7822b/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/0007kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/0007kundan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/0007glitcher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/0007glitcher/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/0007glitcher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://leetcode.com/0007glitcher/](https://leetcode.com/0007glitcher/)" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tiwarikundan0007/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tiwarikundan0007/practice" height="30" width="40" /></a>
 </p>
 
