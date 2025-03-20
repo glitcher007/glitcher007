@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glitcher007" alt="glitcher007" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch,LLM**
+- 🌱 I’m currently learning **PyTorch,LLM,Backend,GenAi**
 
-- 👯 I’m looking to collaborate on **Python, Machine Learning**
+- 👯 I’m looking to collaborate on **Python, Machine Learning,Backend**
 
-- 💬 Ask me about **Machine learning ,Python ,C++,DSA**
+- 💬 Ask me about **Java SrpingBoot React,TypeScript,Machine learning ,Python ,C++,DSA**
 
 - 📫 How to reach me **tiwarikundan0007@gmail.com**
 
-- ⚡ Fun fact **Life is easy isn't haha**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
